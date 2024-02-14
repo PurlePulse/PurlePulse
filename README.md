@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm John Doe, also known as [@PurlePulse](https://github.com/PurlePulse) on GitHub.
+I'm Danushka Gayan, also known as [@PurlePulse](https://github.com/PurlePulse) on GitHub.
 
 - 👀 I’m interested in web development, artificial intelligence, and open-source projects.
 - 🌱 I’m currently learning advanced React concepts and exploring machine learning algorithms.
